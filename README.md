@@ -1,4 +1,4 @@
-# Project-FrontEnd - Ohio State Finals Schedule Viewer
+# Project - Ohio State Finals Schedule Viewer
 
 ## Overview
 
